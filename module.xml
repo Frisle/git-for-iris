@@ -10,7 +10,7 @@
       <Resource Name="SourceControl.Git.PKG"/>
       <Resource Name="dc.PackageSample.PKG"/>
 
-      <CSPApplication
+      <WebApplication
         Path="/csp/user/sc"
         Url="/csp/user/sc"
         MatchRoles=":%All"
